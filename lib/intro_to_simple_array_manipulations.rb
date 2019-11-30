@@ -52,3 +52,4 @@ end
 
 def using_concat(array(1),array(2))
  array.concat(1,2)
+ end
