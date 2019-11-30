@@ -30,9 +30,6 @@ def using_delete_at(array, integer)
   array.delete_at(2)
 end
 
-def using_unshift(array, string)
-  array.unshift(string)
-end
 
 def using_pop(array)
   array.pop
