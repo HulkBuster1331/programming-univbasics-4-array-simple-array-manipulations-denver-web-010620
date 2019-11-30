@@ -2,6 +2,10 @@ def using_push(array,string)
   array.push("violet")
 end
 
+def using_unshift(array, string)
+  array.unshift(string)
+end
+
 def using_contact(array, array2)
   array.contact.array2
 end
@@ -20,9 +24,7 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_unshift(array, string)
-  array.unshift(string)
-end
+
 
 def using_delete(array, string)
   array.delete(string)
