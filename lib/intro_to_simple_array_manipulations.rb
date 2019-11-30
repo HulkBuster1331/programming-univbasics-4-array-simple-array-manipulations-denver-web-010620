@@ -54,7 +54,7 @@ end
 
 
 def using_insert(array,element)
-  array.insert_at(4)(element)
+  array.insert(element)
 end
 
 
