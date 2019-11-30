@@ -55,7 +55,7 @@ end
 
 def using_insert(array,element)
   element = "murica"
-  array.insert(element)
+  array.insert(4)(element)
 end
 
 
